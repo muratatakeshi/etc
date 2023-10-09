@@ -1,0 +1,117 @@
+{
+  "Act as a ROLE": [
+    "Analyst",
+    "Teacher",
+    "Marketer",
+    "Advertise",
+    "Mindset Coach",
+    "Therapist",
+    "Journalist",
+    "Lawyer",
+    "Investor",
+    "Ghostwriter",
+    "Website Designer",
+    "Best Selling Author",
+    "Chief Financial Officer",
+    "Therapist",
+    "Acupuncturist",
+    "Promp Engineer",
+    "Sports Coach",
+    "Project Manager",
+    "Principal Analyst",
+    "Full Stack Developer",
+    "Linux Terminal",
+    "Position Interviewer",
+    "Excel Sheet",
+    "Plagiarism Checker",
+    "Relationship Coach",
+    "Recruiter",
+    "JavaScript Console"
+  ],
+  "Show as FORMAT": [
+    "Table",
+    "List",
+    "Summary",
+    "SLT",
+    "HTML",
+    "Code",
+    "Spreadsheet",
+    "Graphs",
+    "Plain Text file",
+    "JSON",
+    "Rich Text",
+    "PDF",
+    "XML",
+    "Markdown",
+    "Gantt Chart",
+    "Word Cloud",
+    "Emojis",
+    "Analog",
+    "Bullet Points"
+  ],
+  "Create a TASK": [
+    "Headline",
+    "Article",
+    "Essay",
+    "Book Outline",
+    "Email Sequence",
+    "Social Media Post",
+    "Product Description",
+    "Cover Letter",
+    "Blog Post",
+    "SEO Keywords",
+    "Summary",
+    "Video Script",
+    "Riddles",
+    "Sales Copy",
+    "Analysis",
+    "Ad Copy",
+    "Web Page"
+  ],
+  "Set restrictions": [
+    "Use poetic language",
+    "Adopt a formal tone",
+    "Write a short sentence",
+    "Code only in HTML/CSS",
+    "Use Shakespearean style",
+    "Write using basic English",
+    "Use only scientific sources",
+    "Add pop culture references"
+  ],
+  "Prompts for Developers": [
+    "Develop an website with JavaScript.",
+    "Help me fix mistakes in the code. <paste code below>",
+    "I want to implement a sticky header on my website. Can you provide an example using CSS and JavaScript?",
+    "Please continue writing this code for JavaScript <paste code below>"
+  ],
+  "Prompts for Marketers": [
+    "Can you provide me with some ideas for blog posts about [topic]?",
+    "What product description can I create for my product or service or company?",
+    "Suggest inexpensive ways I can promote my company without using social media.",
+    "How can I obtain high-quality backlinks to improve the SEO of [website name]?"
+  ],
+  "Prompts for Designers": [
+    "Generate examples of UI design requirements for a [mobile app].",
+    "How can I design a [law firm website] in a way that conveys trust and authority?",
+    "What are some micro-interactions to consider when designing a fintech app?",
+    "Create a text-based Excel sheet to input your suggestions. Assume you have 3 members in your UX writing team."
+  ],
+  "Prompts for Biz Owners": [
+    "Give me a list of inexpensive ideas on how to promote my business better.",
+    "Acting as a Business Consultant, What is the best way to solve this problem of [Problem]?",
+    "Create a 30-Day Social Media Content Strategy based on [Topic 1] & [Topic 2]."
+  ],
+  "Prompt Priming": {
+    "ZERO": "Write me 5 headlines about [Topic].",
+    "SINGLE": "Write me 5 headlines about [Topic]. Here is an example of one headline: '5 Ways to Lose Weight'",
+    "MULTIPLE": "Write me 5 headlines about [Topic]. Here is an example of some headlines: '5 Ways to Lose Weight, How to Lose More Fat in 4 Weeks, Say Goodbye to Stubborn Fat, Find a faster way to Lose Weight Fast'"
+  },
+  "C.R.E.A.T.E Formula for Prompt Engineering": {
+    "C": "Character - Define the AI's role. E.g., 'You are a seasoned copywriter with 20 years of experience in successful sales copy.'",
+    "R": "Request - Be specific with what you need instead of 'Write a sales email for a sports car,' specify, 'Write a compelling email for the Cougar Hypercar Sports, an electric car with a top-tier acceleration.'",
+    "E": "Examples - Optionally, provide samples for more precise results. Headlines or tone examples can guide the AI's style.",
+    "A": "Adjustments - Refine the prompt if it's not perfect. Use instructions, 'Avoid bullet points,' use subheadings.",
+    "T": "Types of Input - Describe the desired format. E.g., 'Produce a 500-word article with a title and conclusion.'",
+    "E": "Extra - Incorporate unique instructions. E.g., 'Ask questions before answering,' 'Explain your thinking,' 'Summarize what you know about me in the first person,' 'Use data up to 2023,' 'Only use reliable sources and cite them,' 'Use CAPS LOCK for emphasis.'"
+  }
+}

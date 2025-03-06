@@ -30,6 +30,7 @@
 - **パス**: `@admin/Setting/System/login_history.twig`
 - **目的**: 検索フォームとページネーションコントロールを含むログイン履歴ページをレンダリング。
 
+image::svg/test.svg[title="タイトル", width=400, height=300, align=center]
 
 [mermaid]
 ----
